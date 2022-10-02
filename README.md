@@ -3,7 +3,6 @@
 **Resume**
 
 <a href="files/kemp_thornton_resume.pdf" class="image fit"><img src="files/kemp_thornton_resume.png" style="width:auto; height:75px"></a>
-
 <br>
 
 **Rshiny dashboards**
