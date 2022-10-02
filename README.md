@@ -5,5 +5,3 @@
 [Paddock yield and elevation map](https://thornton.shinyapps.io/yield-map/) <br>
 [Experiment design platform for A/B testing](https://thornton.shinyapps.io/experiment-design-platform/) <br>
 [AFL visualisation of historical data](https://thornton.shinyapps.io/afl-visualisation/) <br>
-
-<embed src="files/kemp_thornton_resume.pdf" width="100" height="75">
