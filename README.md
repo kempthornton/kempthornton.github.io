@@ -1,5 +1,10 @@
-# Kemp Thornto
+# Kemp Thornton
 
+**Resume**
+
+<a href="files/kemp_thornton_resume.pdf" class="image fit"><img src="files/kemp_thornton_resume.png" style="width:auto; height:75px"></a>
+
+<br>
 
 **Rshiny dashboards**
 
@@ -13,4 +18,6 @@
 
 **CFA Research Challenge**
 
-<img align="left" src="files/cfa-logo.png" style="width:75px; height:auto"> <a href="files/report.pdf" class="image fit"><img src="files/report.png" style="width:auto; height:75px"></a> <a href="files/presentation.pdf" class="image fit"><img src="files/presentation.png" style="width:auto; height:75px"></a>
+<img align="left" src="files/cfa-logo.png" style="width:75px; height:auto">
+<a href="files/report.pdf" class="image fit"><img src="files/report.png" style="width:auto; height:75px"></a>
+<a href="files/presentation.pdf" class="image fit"><img src="files/presentation.png" style="width:auto; height:75px"></a>
