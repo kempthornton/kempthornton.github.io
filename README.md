@@ -1,8 +1,9 @@
 # Kemp Thornton
-_Last updated 01/04/2023_
+_Last updated 01/05/2023_
 
-## Publications
-* [Improving Agile Planning for Reliable Software Delivery (preprint)](https://kempthornton.github.io/files/2023_Atlassian_IDE_MSR_Industrial_track.pdf)
+## Articles and publications
+* [Explaining A/B test terminology - Medium.com](https://medium.com/@kempthornton/explaining-a-b-test-terminology-14c0e76d9413) <br>
+* [Improving Agile Planning for Reliable Software Delivery - preprint submitted to Mining Software Repositories (MSR) conference](https://kempthornton.github.io/files/2023_Atlassian_IDE_MSR_Industrial_track.pdf)
 
 
 ## Rshiny dashboards
